@@ -1,0 +1,15 @@
+Tente resolver os 4 desafios abaixo.
+Boa sorte!
+1) Erro de login
+Retornar para página principal (página de login) e apresentar mensagem “usuário e ou
+senha inválidos”, mantendo o preenchimento do campo usuário.
+2) Página de cadastro
+Possibilitar que ao clicar no botão “cadastro” localizado no formulário de login, que o
+usuário seja redirecionado para rota “/cadastro”.
+3) Sucesso ao efetuar o cadastro
+Ao efetuar um cadastramento correto, reencaminhar para uma nova view com a
+mensagem “Parabéns, sua conta foi criada com sucesso”. Nesta página deve haver um botão
+permitindo retornar para index.
+4) Console.log perdido no código
+Retirar a mensagem "Entrou na função de conexão" impressa no console sempre
+quando a conexão é aberta.
